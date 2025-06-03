@@ -1,0 +1,1 @@
+This project is a plant based recipe site. The goal is to refine my HTML skills and to learn some new recipes in the process. After this project I will be proficient in adding content to pages using HTML, linking to pages using relative links, and embedding images.
